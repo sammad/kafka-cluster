@@ -1,0 +1,6 @@
+[submodule "pmutluru-kafka-cluster"]
+	path = pmutluru-kafka-cluster
+	url = https://github.com/pragyamutluru/pmutluru-kafka-cluster.git
+[submodule "nodejs-kafka-cluster"]
+	path = nodejs-kafka-cluster
+	url = https://github.com/FUNJABIVRUSH/nodejs-kafka-cluster.git
