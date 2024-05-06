@@ -4,3 +4,6 @@
 [submodule "nodejs-kafka-cluster"]
 	path = nodejs-kafka-cluster
 	url = https://github.com/FUNJABIVRUSH/nodejs-kafka-cluster.git
+[submodule "shapse-kafka-cluster"]
+	path = shapse-kafka-cluster
+	url = https://github.com/ShivaniHapse/shapse-kafka-cluster
