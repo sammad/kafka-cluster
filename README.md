@@ -6,7 +6,7 @@ Steps to add submodules to this project :
 1. Create your own repository under your account
 2. git clone https://github.com/sammad/kafka-cluster.git
 3. cd kafka-cluster
-4. git add submodule _your own repository_
+4. git submodule add  _your_own_repository_link_
 5. git status
 6. git commit -m "Added my submodule to the project."
 7. git push
